@@ -28,4 +28,4 @@ sudo docker container run -d \
     -e MYSQL_ROOT_PASSWORD=education \
     -e MYSQL_DATABASE=guestbook \
     -p 3306:3306 \
-    yu3papa/mysql_hangul:2.0
+    mysql:latest
