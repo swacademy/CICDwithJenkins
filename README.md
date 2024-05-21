@@ -1,2 +1,2 @@
-# CIC Dwith Jenkins
+# CICD with Jenkins
 CI/CD with Jenkins
